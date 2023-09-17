@@ -17,4 +17,4 @@ Power BI
    - Lowest work from home %
   
  ##  Links (Click on the link to get an interactive dashboard experience)
-[![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE4Y2VjYWUtMGVhNC00ODU0LWJlOTItMzZjMzUxNmQ0YTJkIiwidCI6ImM5OWEyZmQzLTY3NmMtNDQ2Ny04NjE4LWMxZTMzMGVlY2MyZCJ9)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE4Y2VjYWUtMGVhNC00ODU0LWJlOTItMzZjMzUxNmQ0YTJkIiwidCI6ImM5OWEyZmQzLTY3NmMtNDQ2Ny04NjE4LWMxZTMzMGVlY2MyZCJ9)
